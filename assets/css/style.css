@@ -189,7 +189,7 @@ section {
     color: #fff;
 }
 
-.vagas {
+.vagas_abertas {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -223,6 +223,37 @@ section {
     width: 70%;
     box-shadow: rgb(68, 68, 68) 0px 0px 20px;
     margin-top: 40px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+
+.vagas {
+    color: #fff;
+    text-align: left;
+    font-weight: 800;
+}
+
+.categoria {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: var(--main-color);
+}
+
+.titulo_vaga {
+    text-indent: 20px;
+}
+
+.informacoes {
+    margin-top: 20px;
+    margin-bottom: 70px;
+    font-weight: 300;
+    text-indent: 20px;
 }
 
 .footer {
