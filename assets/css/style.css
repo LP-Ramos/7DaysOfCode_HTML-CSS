@@ -105,7 +105,6 @@ nav a {
     padding-top: 5px;
     padding-bottom: 5px;
     cursor: pointer;
-    
 }
 
 hr {
@@ -254,6 +253,60 @@ section {
     margin-bottom: 70px;
     font-weight: 300;
     text-indent: 20px;
+}
+
+.divisoria-depoimentos {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.divisoria {
+    text-align: center;
+    max-width: 650px;
+    color: var(--main-color);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.divisoria hr {
+    margin-bottom: 100px;
+}
+
+.secao-depoimentos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+}
+
+.depoimento {
+    color: #fff;
+    text-align: center;
+    width: 60%;
+}
+
+.depoimento h1 {
+    margin: 20px;
+}
+
+.depoimento img {
+    width: 70px;
+}
+
+.depoimento-nome {
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+.depoimento-cargo {
+    font-weight: 300;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.363);
+    margin-bottom: 100px;
 }
 
 .footer {
