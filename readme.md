@@ -8,4 +8,4 @@ Dia #3 (02/04/2022) - Seção de métricas <br>
 Dia #4 (03/04/2022) - Seção de vagas <br>
 Dia #5 (04/04/2022) - Seção detalhes das vagas <br>
 Dia #6 (05/04/2022) - Seção de depoimentos <br>
-Dia #7 (06/04/2022) - ...
+Dia #7 (06/04/2022) - Rodapé do site com cadastro de newsletter.
