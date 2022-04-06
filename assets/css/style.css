@@ -1,17 +1,17 @@
 /* Reset do CSS: */
-@import '_reset.css';
+@import 'reset.css';
 
 /* Fundo da Página: */
-@import '_body.css';
+@import 'body.css';
 
 /* Barra de navegação: */
-@import '_nav.css';
+@import 'nav.css';
 
 /* Cabeçalho 'sobre nós': */
-@import '_header.css';
+@import 'header.css';
 
 /* Seções - Métrica, vagas, detalhes de vagas e depoimentos: */
-@import '_sections.css';
+@import 'sections.css';
 
 /* Rodapé: */
-@import '_footer.css';
+@import 'footer.css';
