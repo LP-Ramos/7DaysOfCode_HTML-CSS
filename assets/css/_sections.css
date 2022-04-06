@@ -1,0 +1,160 @@
+section {
+    margin: 70px;
+}
+
+.metricas {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.metricas div {
+    max-width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.metricas h1 {
+    font-size: 60px;
+    font-weight: 800;
+    text-align: center;
+    color: var(--main-color);
+}
+
+.metricas h2 {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+}
+
+.metricas p {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: justify;
+    color: #fff;
+}
+
+.vagas_abertas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.vagas_texto {
+    text-align: center;
+    color: #fff;
+}
+
+.vagas_texto span {
+    color: var(--main-color);
+    font-size: 20px;
+    background-color: #3f3f3f;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.vagas_texto h1 {
+    margin-top: 10px;
+}
+
+.vagas_texto p {
+    font-size: 15px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.vagas_texto img {
+    width: 70%;
+    box-shadow: rgb(68, 68, 68) 0px 0px 20px;
+    margin-top: 40px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+
+.vagas {
+    color: #fff;
+    text-align: left;
+    font-weight: 800;
+}
+
+.categoria {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: var(--main-color);
+}
+
+.titulo_vaga {
+    text-indent: 20px;
+}
+
+.informacoes {
+    margin-top: 20px;
+    margin-bottom: 70px;
+    font-weight: 300;
+    text-indent: 20px;
+}
+
+.divisoria-depoimentos {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.divisoria {
+    text-align: center;
+    max-width: 650px;
+    color: var(--main-color);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.divisoria hr {
+    margin-bottom: 100px;
+}
+
+.secao-depoimentos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+}
+
+.depoimento {
+    color: #fff;
+    text-align: center;
+    width: 60%;
+}
+
+.depoimento h1 {
+    margin: 20px;
+}
+
+.depoimento img {
+    width: 70px;
+}
+
+.depoimento-nome {
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+.depoimento-cargo {
+    font-weight: 300;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.363);
+    margin-bottom: 100px;
+}

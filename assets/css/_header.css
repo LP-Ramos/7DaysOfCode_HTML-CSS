@@ -1,0 +1,34 @@
+.cabecalho {
+    margin-top: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.sobre {
+    text-align: center;
+    max-width: 650px;
+    color: #fff;
+    margin: 20px;
+}
+
+.sobre span {
+    color: var(--main-color);
+    font-size: 20px;
+}
+
+.sobre h1 {
+    margin-top: 10px;
+}
+
+.sobre p {
+    font-size: 15px;
+    text-align: justify;
+    margin: 40px;
+}
+
+.sobre hr {
+    margin-top: 60px;
+}
